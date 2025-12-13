@@ -1236,6 +1236,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C83482"
+			(at 55.88 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8c73244f-6712-4972-89bc-92d84421a071")
 		)
@@ -1306,7 +1315,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C14663"
 			(at 157.48 48.26 0)
 			(effects
 				(font
@@ -1379,6 +1388,15 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 119.38 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5149201"
+			(at 119.38 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
