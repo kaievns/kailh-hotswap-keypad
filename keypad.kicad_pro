@@ -526,7 +526,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "little-wing.step",
+      "step": "kailh-choc-v2-keypad.step",
       "svg": "",
       "vrml": "little-wing.wrl"
     },
